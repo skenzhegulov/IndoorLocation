@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="saken.usis.indoorlocation.MainActivity">
+    <item
+        android:id="@+id/add_beacon"
+        android:orderInCategory="100"
+        android:title="@string/add_beacon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/clear_beacons"
+        android:orderInCategory="100"
+        android:title="@string/clear_beacons"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_data"
+        android:orderInCategory="100"
+        android:title="@string/change_data"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/change_n"
+        android:orderInCategory="100"
+        android:title="@string/change_n"
+        app:showAsAction="never" />
+</menu>

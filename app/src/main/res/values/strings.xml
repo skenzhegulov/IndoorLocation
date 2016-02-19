@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IndoorLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="add_beacon">Add Beacon</string>
+    <string name="clear_beacons">Clear Beacons</string>
+    <string name="dialog_title">Length and width</string>
+    <string name="unknown_beacon">Unknown Beacon</string>
+    <string name="change_data"><![CDATA[Change Length & Width]]></string>
+    <string name="change_n">Change n\'s value</string>
+</resources>
